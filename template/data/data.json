@@ -1,6 +1,6 @@
 {
   "global": {
-    "eventDate": "2021-04-22T10:00:00.000Z",
+    "eventDate": "2021-10-28T08:00:00.000Z",
     "navigation": {
       "links": [
         {
@@ -16,15 +16,15 @@
           "url": "/stage/integrate"
         },
         {
-          "text": "Schedule",
+          "text": "Agenda",
           "url": "/schedule"
         },
         {
-          "text": "Speakers",
+          "text": "Conferencistas",
           "url": "/speakers"
         },
         {
-          "text": "Expo",
+          "text": "Patrocinadores",
           "url": "/expo"
         },
         {
@@ -34,14 +34,14 @@
       ]
     },
     "edito": {
-      "homeTitle": "# The first Strapi Global \nUser Conference",
-      "homeSubtitle": "## A virtual conference for the Strapi community, \nfree for everyone",
+      "homeTitle": "# VII Conferencia Internacional de \nInnivación en Ingeniería de Sistemas",
+      "homeSubtitle": "## Difundiendo los avances e innovacion, \nde la Ingeniería de Sistemas",
       "joinTitle": "Join the conference",
       "joinSubtitle": "Learn, contribute, and collaborate on the future of the leading open-source Headless CMS, \nfree for everyone",
-      "learnMore": "Learn more about Strapi on [Github](https://github.com/strapi/strapi)."
+      "learnMore": "Más información [cinsis@unimagdalena.edu.co](mailto:cinsis@unimagdalena.edu.co)."
     },
     "footer": {
-      "credits": "Copyright © 2021 Strapi, Inc. All rights reserved.",
+      "credits": "Copyright © 2021 Universidad del Magdalena All rights reserved.",
       "links": [
         {
           "text": "Source code",
@@ -52,8 +52,8 @@
           "url": "https://github.com/strapi/strapi/blob/master/CODE_OF_CONDUCT.md"
         },
         {
-          "text": "Legal",
-          "url": "https://strapi.io/privacy"
+          "text": "Política de Datos",
+          "url": "https://www.unimagdalena.edu.co/Publico/ProteccionDatosPersonales"
         }
       ]
     }
@@ -62,10 +62,10 @@
     {
       "type": "jobs",
       "settings": {
-        "metaTitle": "Jobs - StrapiConf",
-        "metaDescription": "Learn more about the job opportunities available in the Strapi and JAMstack ecosystem. ",
-        "title": "Jobs - StrapiConf",
-        "description": "Learn more about the job opportunities available in the Strapi and JAMstack ecosystem. ",
+        "metaTitle": "Jobs - Cinsis",
+        "metaDescription": "Learn more about the job opportunities available. ",
+        "title": "Jobs - Cinsis",
+        "description": "Learn more about the job opportunities available. ",
         "metaImage": null
       }
     },
@@ -82,40 +82,40 @@
     {
       "type": "speakers",
       "settings": {
-        "metaTitle": "Speakers - StrapiConf",
-        "metaDescription": "Learn more about all the awesome StrapiConf speakers and breakout sessions",
-        "title": "Speakers - StrapiConf",
-        "description": "Learn more about all the awesome StrapiConf speakers and breakout sessions",
+        "metaTitle": "Conferencistas - Cinsis 2021",
+        "metaDescription": "Conoce más sobre los conferencistas que participaran en las diferentes sesiones de Cinsis 2021",
+        "title": "Conferencistas - Cinsis 2021",
+        "description": "Conoce más sobre los conferencistas que participaran en las diferentes sesiones de Cinsis 2021",
         "metaImage": null
       }
     },
     {
       "type": "homepage",
       "settings": {
-        "metaTitle": "StrapiConf - User conference for the Strapi community",
-        "metaDescription": "A 1-day conference taking place on April 22nd, 2021 from 8 am to 3 pm PST for the Strapi Community to learn, contribute, and collaborate on the future of the leading open-source Headless CMS. \n\n",
-        "title": "StrapiConf - user conference for the Strapi community",
-        "description": "A 1-day conference taking place on April 22nd, 2021 from 8 am to 3 pm PST for the Strapi Community to learn, contribute, and collaborate on the future of the leading open-source Headless CMS. \n",
+        "metaTitle": "Cinsis 2021 - VII Conferencia Internacional de Innivación en Ingeniería de Sistemas",
+        "metaDescription": "3 días de conferencias y 27 sesiones donde se difunden nuevos avances e innovacion, de la Ingeniería de Sistemas. \n\n",
+        "title": "Cinsis 2021 - VII Conferencia Internacional de Innivación en Ingeniería de Sistemas",
+        "description": "3 días de conferencias y 27 sesiones donde se difunden nuevos avances e innovacion, de la Ingeniería de Sistemas. \n",
         "metaImage": null
       }
     },
     {
       "type": "sponsors",
       "settings": {
-        "metaTitle": "Expo - StrapiConf",
-        "metaDescription": "Meet our awesome StrapiConf sponsors! ",
-        "title": "Expo - StrapiConf",
-        "description": "Meet our awesome StrapiConf sponsors! ",
+        "metaTitle": "Patrocinadores - Cinsis 2021",
+        "metaDescription": "¡Estos son nuestros patrocinadores! ",
+        "title": "Patrocinadores - Cinsis 2021",
+        "description": "¡Estos son nuestros patrocinadores!",
         "metaImage": null
       }
     },
     {
       "type": "schedule",
       "settings": {
-        "metaTitle": "Schedule - StrapiConf",
-        "metaDescription": "3 Track & 27+ sessions for everyone! Keynote starts at 8:30 AM PST (5:00 PM CET). ",
-        "title": "Schedule - StrapiConf",
-        "description": "3 Track & 27+ sessions for everyone! Keynote starts at 8:30 AM PST (5:00 PM CET). ",
+        "metaTitle": "Agenda - Cinsis 2021",
+        "metaDescription": "3 días de conferencias y 27 sesiones para todos que inician a las 8:00 AM (GMT-5). ",
+        "title": "Agenda - Cinsis 2021",
+        "description": "3 días de conferencias y 27 sesiones para todos que inician a las 8:00 AM (GMT-5). ",
         "metaImage": null
       }
     }
@@ -1839,7 +1839,7 @@
       "id": 1,
       "name": "Stage: Adopt ",
       "slug": "adopt",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "stream": "https://www.youtube.com/embed/d4dH5CSBuGY",
       "order": "1",
       "discord": "",
       "schedule": [
@@ -1891,7 +1891,7 @@
       "id": 2,
       "name": "Stage: Build",
       "slug": "build",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "stream": "https://www.youtube.com/embed/d4dH5CSBuGY",
       "order": "2",
       "discord": "",
       "schedule": [
@@ -1943,7 +1943,7 @@
       "id": 3,
       "name": "Stage: Integrate ",
       "slug": "integrate",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "stream": "https://www.youtube.com/embed/d4dH5CSBuGY",
       "order": "3",
       "discord": "",
       "schedule": [
