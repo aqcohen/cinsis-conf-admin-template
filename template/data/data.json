@@ -34,14 +34,14 @@
       ]
     },
     "edito": {
-      "homeTitle": "# VII Conferencia Internacional de \nInnivación en Ingeniería de Sistemas",
+      "homeTitle": "# VII Conferencia Internacional de \nInnovación en Ingeniería de Sistemas",
       "homeSubtitle": "## Difundiendo los avances e innovacion, \nde la Ingeniería de Sistemas",
       "joinTitle": "Join the conference",
       "joinSubtitle": "Learn, contribute, and collaborate on the future of the leading open-source Headless CMS, \nfree for everyone",
       "learnMore": "Más información [cinsis@unimagdalena.edu.co](mailto:cinsis@unimagdalena.edu.co)."
     },
     "footer": {
-      "credits": "Copyright © 2021 Universidad del Magdalena All rights reserved.",
+      "credits": "Copyright © 2021 Universidad del Magdalena, All rights reserved.",
       "links": [
         {
           "text": "Source code",
